@@ -1,6 +1,7 @@
 1) 
 SELECT AVG(grade) AS average_grade
 FROM Enrollments;
+![1](https://github.com/user-attachments/assets/62b60b57-346d-42f1-aac8-38b5cd016d49)
 
 2). 
 SELECT s.name AS student_name, c.course_name
